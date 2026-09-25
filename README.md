@@ -1,0 +1,2 @@
+# Otherwise
+Otherwise is a site where readers rewrite the chapters that stayed with them. Pick a public-domain book, pick a chapter, and write the version of it you've been imagining — then browse everyone else's take on that same chapter, filterable by mood and sortable by newest or most-loved. Readers can add new books to the catalog, follow each other, and view anyone's profile to see what they've written, what they've added, and who follows them.
