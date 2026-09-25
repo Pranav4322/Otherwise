@@ -1,0 +1,9 @@
+{
+  "name": "otherwise-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for Otherwise — plain HTML/CSS/JS, no build step.",
+  "scripts": {
+    "start": "npx --yes serve . -l 5173"
+  }
+}
